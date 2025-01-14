@@ -65,15 +65,6 @@ Este repositório contém um projeto de análise de dados e criação de dashboa
 
 ---
 
-## 🖼 **Prévia do Dashboard e da Análise**
-
-### Exemplo do Dashboard
-_Após a configuração, insira aqui uma captura de tela do dashboard para ilustrar._
-
-### Análise de Clusterização
-_Insira aqui uma captura de tela com a análise de clusterização para destacar os insights extraídos._
-
----
 
 ## 🤝 **Contribuições**
 
